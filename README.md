@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="720" src="./assets/mirai-eyes-banner.png" alt="栗山未来 · 黑白眼部特写，琥珀色眼睛与红色眼镜" />
+  <img width="720" src="./assets/mirai-eyes-banner.webp" alt="栗山未来 · 黑白眼部特写，琥珀色眼睛与红色眼镜" />
 
   <br /><br />
 
